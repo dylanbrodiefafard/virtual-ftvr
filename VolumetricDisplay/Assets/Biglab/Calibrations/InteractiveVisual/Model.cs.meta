@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4fb012740744ee940b1d8d204fcb8201
+timeCreated: 1529180355
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TrackingToDisplay: {instanceID: 0}
+  - HeadToViewpoints: {instanceID: 0}
+  - CalibrationParameters: {fileID: 11400000, guid: b56d055ce46d0e349a701113d7e6c5ec,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

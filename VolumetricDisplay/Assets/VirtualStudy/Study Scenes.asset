@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bdbe2bf20ee7304ca6999e8351fa98c, type: 3}
+  m_Name: Study Scenes
+  m_EditorClassIdentifier: 
+  _scenes:
+  - _asset: {fileID: 102900000, guid: bbea9ed11bde5a5499c6707a19ff5ded, type: 3}
+    _path: Assets/VirtualStudy/Spatial Impression/Spatial Impression Task.unity
+    _name: Spatial Impression Task
+  - _asset: {fileID: 102900000, guid: 496b86ac378a00f4496dfb151ab84bd6, type: 3}
+    _path: Assets/VirtualStudy/Calibration Refinement/Calibration Refinement Task.unity
+    _name: Calibration Refinement Task
+  - _asset: {fileID: 102900000, guid: b6078c7dbbfa839469b46a05a99f0152, type: 3}
+    _path: Assets/VirtualStudy/Point Cloud/Point Cloud Task.unity
+    _name: Point Cloud Task

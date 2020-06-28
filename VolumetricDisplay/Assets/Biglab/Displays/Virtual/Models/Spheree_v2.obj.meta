@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: c11d7805077393a4d89247eba5a5092e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bottom_Plate_Cube.001_None
+    100002: Inner_Icosphere.002_None
+    100004: Middle_Plate_Cube.002_None
+    100006: Outer.001_Icosphere.003_None
+    100008: Pillar_1_Cube.004_None
+    100010: Pillar_2_Cube.005_None
+    100012: Pillar_3_Cube.006_None
+    100014: Pillar_4_Cube.007_None
+    100016: //RootNode
+    100018: Top_Plate_Cube.003_None
+    400000: Bottom_Plate_Cube.001_None
+    400002: Inner_Icosphere.002_None
+    400004: Middle_Plate_Cube.002_None
+    400006: Outer.001_Icosphere.003_None
+    400008: Pillar_1_Cube.004_None
+    400010: Pillar_2_Cube.005_None
+    400012: Pillar_3_Cube.006_None
+    400014: Pillar_4_Cube.007_None
+    400016: //RootNode
+    400018: Top_Plate_Cube.003_None
+    2100000: None
+    2300000: Bottom_Plate_Cube.001_None
+    2300002: Inner_Icosphere.002_None
+    2300004: Middle_Plate_Cube.002_None
+    2300006: Outer.001_Icosphere.003_None
+    2300008: Pillar_1_Cube.004_None
+    2300010: Pillar_2_Cube.005_None
+    2300012: Pillar_3_Cube.006_None
+    2300014: Pillar_4_Cube.007_None
+    2300016: Top_Plate_Cube.003_None
+    3300000: Bottom_Plate_Cube.001_None
+    3300002: Inner_Icosphere.002_None
+    3300004: Middle_Plate_Cube.002_None
+    3300006: Outer.001_Icosphere.003_None
+    3300008: Pillar_1_Cube.004_None
+    3300010: Pillar_2_Cube.005_None
+    3300012: Pillar_3_Cube.006_None
+    3300014: Pillar_4_Cube.007_None
+    3300016: Top_Plate_Cube.003_None
+    4300000: Bottom_Plate_Cube.001_None
+    4300002: Inner_Icosphere.002_None
+    4300004: Middle_Plate_Cube.002_None
+    4300006: Outer.001_Icosphere.003_None
+    4300008: Pillar_1_Cube.004_None
+    4300010: Pillar_2_Cube.005_None
+    4300012: Pillar_3_Cube.006_None
+    4300014: Pillar_4_Cube.007_None
+    4300016: Top_Plate_Cube.003_None
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

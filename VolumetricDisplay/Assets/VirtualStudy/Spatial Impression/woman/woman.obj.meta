@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: fb7dc8174482e694d924ebe8dd7da340
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Coat
+    100002: Eye
+    100004: Eye_lashes
+    100006: Hair_01
+    100008: Hair_02
+    100010: Head
+    100012: //RootNode
+    400000: Coat
+    400002: Eye
+    400004: Eye_lashes
+    400006: Hair_01
+    400008: Hair_02
+    400010: Head
+    400012: //RootNode
+    2100000: CoatMat
+    2100002: EyeMat
+    2100004: Eye_lashesMat
+    2100006: Hair_01Mat
+    2100008: Hair_02Mat
+    2100010: HeadMat
+    2300000: Coat
+    2300002: Eye
+    2300004: Eye_lashes
+    2300006: Hair_01
+    2300008: Hair_02
+    2300010: Head
+    3300000: Coat
+    3300002: Eye
+    3300004: Eye_lashes
+    3300006: Hair_01
+    3300008: Hair_02
+    3300010: Head
+    4300000: Coat
+    4300002: Eye
+    4300004: Eye_lashes
+    4300006: Hair_01
+    4300008: Hair_02
+    4300010: Head
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CoatMat
+    second: {fileID: 2100000, guid: 07350f0928c2e4e4a802e77d6a7d4506, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeMat
+    second: {fileID: 2100000, guid: 47923b4996e4ac44eb504083a63ee128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_lashesMat
+    second: {fileID: 2100000, guid: 92a63cb122e2b7948ba005e15fc34b21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_01Mat
+    second: {fileID: 2100000, guid: 8a427cfb60a8e424fb27717e9dd76361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_02Mat
+    second: {fileID: 2100000, guid: 66f5e7386688f264b89afac999221dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeadMat
+    second: {fileID: 2100000, guid: fee6724ef25a5f148aa434741f7a365b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

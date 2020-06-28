@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1f27fa9eecd5f4fb47d7260a7d1b99, type: 3}
+  m_Name: Tetris Input
+  m_EditorClassIdentifier: 
+  _inputs:
+  - Name: MoveRight
+    UnityInputName: XboxDPadHorizontal
+    InputType: 1
+  - Name: MoveLeft
+    UnityInputName: XboxDPadHorizontal
+    InputType: 2
+  - Name: MoveUp
+    UnityInputName: XboxDPadVertical
+    InputType: 1
+  - Name: MoveDown
+    UnityInputName: XboxDPadVertical
+    InputType: 2
+  - Name: RotateCW
+    UnityInputName: XboxThumbRVertical
+    InputType: 1
+  - Name: RotateCCW
+    UnityInputName: XboxThumbRVertical
+    InputType: 2
+  - Name: FlipF
+    UnityInputName: XboxThumbRHorizontal
+    InputType: 2
+  - Name: FlipB
+    UnityInputName: XboxThumbRHorizontal
+    InputType: 1
+  - Name: Drop
+    UnityInputName: XboxButtonA
+    InputType: 0

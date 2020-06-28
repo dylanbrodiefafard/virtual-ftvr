@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bdbe2bf20ee7304ca6999e8351fa98c, type: 3}
+  m_Name: Demo Scenes
+  m_EditorClassIdentifier: 
+  _scenes:
+  - _asset: {fileID: 102900000, guid: fe7cf4863c6884f4ab03965ad57ab278, type: 3}
+    _path: Assets/Demos/HideAndSeek/Hide And Seek.unity
+    _name: Hide And Seek
+  - _asset: {fileID: 102900000, guid: fb72de509c9ecd742a5b650160ff655e, type: 3}
+    _path: Assets/Demos/Spherical Pong/Pong.unity
+    _name: Pong
+  - _asset: {fileID: 102900000, guid: c9cc473cd0dbe62459e338dc06adb84f, type: 3}
+    _path: Assets/Demos/ClawScene/Apple Claw.unity
+    _name: Apple Claw
+  - _asset: {fileID: 102900000, guid: a480daea2fd2af04ea92c35a319ef745, type: 3}
+    _path: Assets/Biglab/Scenes/Simple.unity
+    _name: Simple
+  - _asset: {fileID: 102900000, guid: da731a886146ccf4abed59e4791da1e0, type: 3}
+    _path: Assets/Biglab/Scenes/Calibration.unity
+    _name: Calibration
+  - _asset: {fileID: 102900000, guid: f7ac3231158ec634d92aa80af235ab83, type: 3}
+    _path: Assets/Biglab/Scenes/Stereo Visualizer/Stereo Visualizer.unity
+    _name: Stereo Visualizer
+  - _asset: {fileID: 102900000, guid: 9f19a1a5490af5748aac7c73321b6e06, type: 3}
+    _path: Assets/Demos/Static/Statue.unity
+    _name: Statue
+  - _asset: {fileID: 102900000, guid: 916d8fd160504984d812857334e80994, type: 3}
+    _path: Assets/Demos/Static/Point Cloud.unity
+    _name: Point Cloud
+  - _asset: {fileID: 102900000, guid: 7598a8f6bb4f9bc458d984bef915b2ff, type: 3}
+    _path: Assets/Demos/Eye Contact/demo_Eye_Contact.unity
+    _name: Demo_Eye_Contact

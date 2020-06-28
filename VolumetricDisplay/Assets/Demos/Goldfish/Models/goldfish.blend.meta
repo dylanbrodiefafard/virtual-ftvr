@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: eb3b8b7ac637dc643b9fa09843f58287
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BACK_LEFT_SIDE_FIN_Joint
+    100002: BACK_LEFT_SIDE_FIN_Joint_1
+    100004: BACK_LEFT_SIDE_FIN_Joint_2
+    100006: BACK_LEFT_SIDE_FIN_TIP_Joint_3
+    100008: BACK_RIGHT_SIDE_FIN_Joint_2
+    100010: BACK_RIGHT_SIDE_FIN_Joint_3
+    100012: BACK_RIGHT_SIDE_FIN_Joint_4
+    100014: BACK_RIGHT_SIDE_FIN_TIP_Joint_5
+    100016: BOTTOM_FIN_Joint_3
+    100018: BOTTOM_FIN_Joint_4
+    100020: BOTTOM_FIN_Joint_5
+    100022: BOTTOM_FIN_TIP_Joint_6
+    100024: GOLDFIN
+    100026: GOLDFISH
+    100028: //RootNode
+    100030: GOLDFISH_
+    100032: GOLDFISH_1
+    100034: HEAD_Joint_3
+    100036: HIP_Joint
+    100038: JAW_Joint_3
+    100040: JAW_TIP_Joint_4
+    100042: LEFT_SIDE_FIN_Joint
+    100044: LEFT_SIDE_FIN_Joint_1
+    100046: LEFT_SIDE_FIN_Joint_2
+    100048: LEFT_SIDE_FIN_TIP_Joint_3
+    100050: LWR_SPINE_Joint_1
+    100052: LWR_SPINE_Joint_2
+    100054: LWR_SPINE_Joint_3
+    100056: LWR_SPINE_Joint_4
+    100058: LWR_TAIL_Joint_5
+    100060: LWR_TAIL_Joint_6
+    100062: LWR_TAIL_TIP_Joint_7
+    100064: MAIN_PELVIS
+    100066: MID_TAIL_Joint_5
+    100068: MID_TAIL_Joint_6
+    100070: MID_TAIL_TIP_Joint_7
+    100072: RIGHT_SIDE_FIN_Joint_2
+    100074: RIGHT_SIDE_FIN_Joint_3
+    100076: RIGHT_SIDE_FIN_Joint_4
+    100078: RIGHT_SIDE_FIN_TIP_Joint_5
+    100080: Skin
+    100082: Skin_2
+    100084: TOP_FIN_Joint_1
+    100086: TOP_FIN_Joint_2
+    100088: TOP_FIN_Joint_3
+    100090: TOP_FIN_TIP_Joint_4
+    100092: UP_TAIL_Joint_5
+    100094: UP_TAIL_Joint_6
+    100096: UP_TAIL_Joint_7
+    100098: UP_TAIL_TIP_Joint_8
+    100100: UPPER_SPINE_Joint_1
+    100102: UPPER_SPINE_Joint_2
+    400000: BACK_LEFT_SIDE_FIN_Joint
+    400002: BACK_LEFT_SIDE_FIN_Joint_1
+    400004: BACK_LEFT_SIDE_FIN_Joint_2
+    400006: BACK_LEFT_SIDE_FIN_TIP_Joint_3
+    400008: BACK_RIGHT_SIDE_FIN_Joint_2
+    400010: BACK_RIGHT_SIDE_FIN_Joint_3
+    400012: BACK_RIGHT_SIDE_FIN_Joint_4
+    400014: BACK_RIGHT_SIDE_FIN_TIP_Joint_5
+    400016: BOTTOM_FIN_Joint_3
+    400018: BOTTOM_FIN_Joint_4
+    400020: BOTTOM_FIN_Joint_5
+    400022: BOTTOM_FIN_TIP_Joint_6
+    400024: GOLDFIN
+    400026: GOLDFISH
+    400028: //RootNode
+    400030: GOLDFISH_
+    400032: GOLDFISH_1
+    400034: HEAD_Joint_3
+    400036: HIP_Joint
+    400038: JAW_Joint_3
+    400040: JAW_TIP_Joint_4
+    400042: LEFT_SIDE_FIN_Joint
+    400044: LEFT_SIDE_FIN_Joint_1
+    400046: LEFT_SIDE_FIN_Joint_2
+    400048: LEFT_SIDE_FIN_TIP_Joint_3
+    400050: LWR_SPINE_Joint_1
+    400052: LWR_SPINE_Joint_2
+    400054: LWR_SPINE_Joint_3
+    400056: LWR_SPINE_Joint_4
+    400058: LWR_TAIL_Joint_5
+    400060: LWR_TAIL_Joint_6
+    400062: LWR_TAIL_TIP_Joint_7
+    400064: MAIN_PELVIS
+    400066: MID_TAIL_Joint_5
+    400068: MID_TAIL_Joint_6
+    400070: MID_TAIL_TIP_Joint_7
+    400072: RIGHT_SIDE_FIN_Joint_2
+    400074: RIGHT_SIDE_FIN_Joint_3
+    400076: RIGHT_SIDE_FIN_Joint_4
+    400078: RIGHT_SIDE_FIN_TIP_Joint_5
+    400080: Skin
+    400082: Skin_2
+    400084: TOP_FIN_Joint_1
+    400086: TOP_FIN_Joint_2
+    400088: TOP_FIN_Joint_3
+    400090: TOP_FIN_TIP_Joint_4
+    400092: UP_TAIL_Joint_5
+    400094: UP_TAIL_Joint_6
+    400096: UP_TAIL_Joint_7
+    400098: UP_TAIL_TIP_Joint_8
+    400100: UPPER_SPINE_Joint_1
+    400102: UPPER_SPINE_Joint_2
+    4300000: GOLDFISH
+    4300002: GOLDFIN
+    7400000: Default Take
+    7400002: GOLDFISH__C4D_Animation_Take_Layer0
+    9500000: //RootNode
+    13700000: GOLDFIN
+    13700002: GOLDFISH
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GOLDFBDY
+    second: {fileID: 2100000, guid: 53e10802265b36445a7186cdb8262975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GOLDFIN
+    second: {fileID: 2100000, guid: 3cebb952a270c8948936e6fa755ceda1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

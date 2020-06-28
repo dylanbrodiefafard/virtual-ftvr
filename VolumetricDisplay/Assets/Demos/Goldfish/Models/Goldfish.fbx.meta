@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 8c406b2601090a84da570f1f179e7b03
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BACK_LEFT_SIDE_FIN_Joint
+    100002: BACK_LEFT_SIDE_FIN_Joint_1
+    100004: BACK_LEFT_SIDE_FIN_Joint_2
+    100006: BACK_LEFT_SIDE_FIN_TIP_Joint_3
+    100008: BACK_LEFT_SIDE_FIN_TIP_Joint_3_end
+    100010: BACK_RIGHT_SIDE_FIN_Joint_2
+    100012: BACK_RIGHT_SIDE_FIN_Joint_3
+    100014: BACK_RIGHT_SIDE_FIN_Joint_4
+    100016: BACK_RIGHT_SIDE_FIN_TIP_Joint_5
+    100018: BACK_RIGHT_SIDE_FIN_TIP_Joint_5_end
+    100020: BOTTOM_FIN_Joint_3
+    100022: BOTTOM_FIN_Joint_4
+    100024: BOTTOM_FIN_Joint_5
+    100026: BOTTOM_FIN_TIP_Joint_6
+    100028: BOTTOM_FIN_TIP_Joint_6_end
+    100030: GOLDFIN
+    100032: GOLDFISH
+    100034: GOLDFISH_
+    100036: HEAD_Joint_3
+    100038: HEAD_Joint_3_end
+    100040: HIP_Joint
+    100042: JAW_Joint_3
+    100044: JAW_TIP_Joint_4
+    100046: JAW_TIP_Joint_4_end
+    100048: LEFT_SIDE_FIN_Joint
+    100050: LEFT_SIDE_FIN_Joint_1
+    100052: LEFT_SIDE_FIN_Joint_2
+    100054: LEFT_SIDE_FIN_TIP_Joint_3
+    100056: LEFT_SIDE_FIN_TIP_Joint_3_end
+    100058: LWR_SPINE_Joint_1
+    100060: LWR_SPINE_Joint_2
+    100062: LWR_SPINE_Joint_3
+    100064: LWR_SPINE_Joint_4
+    100066: LWR_TAIL_Joint_5
+    100068: LWR_TAIL_Joint_6
+    100070: LWR_TAIL_TIP_Joint_7
+    100072: LWR_TAIL_TIP_Joint_7_end
+    100074: MID_TAIL_Joint_5
+    100076: MID_TAIL_Joint_6
+    100078: MID_TAIL_TIP_Joint_7
+    100080: MID_TAIL_TIP_Joint_7_end
+    100082: RIGHT_SIDE_FIN_Joint_2
+    100084: RIGHT_SIDE_FIN_Joint_3
+    100086: RIGHT_SIDE_FIN_Joint_4
+    100088: RIGHT_SIDE_FIN_TIP_Joint_5
+    100090: RIGHT_SIDE_FIN_TIP_Joint_5_end
+    100092: TOP_FIN_Joint_1
+    100094: TOP_FIN_Joint_2
+    100096: TOP_FIN_Joint_3
+    100098: TOP_FIN_TIP_Joint_4
+    100100: TOP_FIN_TIP_Joint_4_end
+    100102: //RootNode
+    100104: UP_TAIL_Joint_5
+    100106: UP_TAIL_Joint_6
+    100108: UP_TAIL_Joint_7
+    100110: UP_TAIL_TIP_Joint_8
+    100112: UP_TAIL_TIP_Joint_8_end
+    100114: UPPER_SPINE_Joint_1
+    100116: UPPER_SPINE_Joint_2
+    400000: BACK_LEFT_SIDE_FIN_Joint
+    400002: BACK_LEFT_SIDE_FIN_Joint_1
+    400004: BACK_LEFT_SIDE_FIN_Joint_2
+    400006: BACK_LEFT_SIDE_FIN_TIP_Joint_3
+    400008: BACK_LEFT_SIDE_FIN_TIP_Joint_3_end
+    400010: BACK_RIGHT_SIDE_FIN_Joint_2
+    400012: BACK_RIGHT_SIDE_FIN_Joint_3
+    400014: BACK_RIGHT_SIDE_FIN_Joint_4
+    400016: BACK_RIGHT_SIDE_FIN_TIP_Joint_5
+    400018: BACK_RIGHT_SIDE_FIN_TIP_Joint_5_end
+    400020: BOTTOM_FIN_Joint_3
+    400022: BOTTOM_FIN_Joint_4
+    400024: BOTTOM_FIN_Joint_5
+    400026: BOTTOM_FIN_TIP_Joint_6
+    400028: BOTTOM_FIN_TIP_Joint_6_end
+    400030: GOLDFIN
+    400032: GOLDFISH
+    400034: GOLDFISH_
+    400036: HEAD_Joint_3
+    400038: HEAD_Joint_3_end
+    400040: HIP_Joint
+    400042: JAW_Joint_3
+    400044: JAW_TIP_Joint_4
+    400046: JAW_TIP_Joint_4_end
+    400048: LEFT_SIDE_FIN_Joint
+    400050: LEFT_SIDE_FIN_Joint_1
+    400052: LEFT_SIDE_FIN_Joint_2
+    400054: LEFT_SIDE_FIN_TIP_Joint_3
+    400056: LEFT_SIDE_FIN_TIP_Joint_3_end
+    400058: LWR_SPINE_Joint_1
+    400060: LWR_SPINE_Joint_2
+    400062: LWR_SPINE_Joint_3
+    400064: LWR_SPINE_Joint_4
+    400066: LWR_TAIL_Joint_5
+    400068: LWR_TAIL_Joint_6
+    400070: LWR_TAIL_TIP_Joint_7
+    400072: LWR_TAIL_TIP_Joint_7_end
+    400074: MID_TAIL_Joint_5
+    400076: MID_TAIL_Joint_6
+    400078: MID_TAIL_TIP_Joint_7
+    400080: MID_TAIL_TIP_Joint_7_end
+    400082: RIGHT_SIDE_FIN_Joint_2
+    400084: RIGHT_SIDE_FIN_Joint_3
+    400086: RIGHT_SIDE_FIN_Joint_4
+    400088: RIGHT_SIDE_FIN_TIP_Joint_5
+    400090: RIGHT_SIDE_FIN_TIP_Joint_5_end
+    400092: TOP_FIN_Joint_1
+    400094: TOP_FIN_Joint_2
+    400096: TOP_FIN_Joint_3
+    400098: TOP_FIN_TIP_Joint_4
+    400100: TOP_FIN_TIP_Joint_4_end
+    400102: //RootNode
+    400104: UP_TAIL_Joint_5
+    400106: UP_TAIL_Joint_6
+    400108: UP_TAIL_Joint_7
+    400110: UP_TAIL_TIP_Joint_8
+    400112: UP_TAIL_TIP_Joint_8_end
+    400114: UPPER_SPINE_Joint_1
+    400116: UPPER_SPINE_Joint_2
+    4300000: GOLDFISH
+    4300002: GOLDFIN
+    7400000: GOLDFISH_|GOLDFISH_|C4D Animation Take|Layer0
+    9500000: //RootNode
+    13700000: GOLDFIN
+    13700002: GOLDFISH
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GOLDFBDY
+    second: {fileID: 2100000, guid: 53e10802265b36445a7186cdb8262975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GOLDFIN
+    second: {fileID: 2100000, guid: 3cebb952a270c8948936e6fa755ceda1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GOLDFISH_|GOLDFISH_|C4D Animation Take|Layer0
+      takeName: GOLDFISH_|GOLDFISH_|C4D Animation Take|Layer0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GOLDFIN
+        weight: 1
+      - path: GOLDFISH
+        weight: 1
+      - path: GOLDFISH_
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_LEFT_SIDE_FIN_Joint
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_LEFT_SIDE_FIN_Joint/BACK_LEFT_SIDE_FIN_Joint_1
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_LEFT_SIDE_FIN_Joint/BACK_LEFT_SIDE_FIN_Joint_1/BACK_LEFT_SIDE_FIN_Joint_2
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_LEFT_SIDE_FIN_Joint/BACK_LEFT_SIDE_FIN_Joint_1/BACK_LEFT_SIDE_FIN_Joint_2/BACK_LEFT_SIDE_FIN_TIP_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_LEFT_SIDE_FIN_Joint/BACK_LEFT_SIDE_FIN_Joint_1/BACK_LEFT_SIDE_FIN_Joint_2/BACK_LEFT_SIDE_FIN_TIP_Joint_3/BACK_LEFT_SIDE_FIN_TIP_Joint_3_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_RIGHT_SIDE_FIN_Joint_2
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_RIGHT_SIDE_FIN_Joint_2/BACK_RIGHT_SIDE_FIN_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_RIGHT_SIDE_FIN_Joint_2/BACK_RIGHT_SIDE_FIN_Joint_3/BACK_RIGHT_SIDE_FIN_Joint_4
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_RIGHT_SIDE_FIN_Joint_2/BACK_RIGHT_SIDE_FIN_Joint_3/BACK_RIGHT_SIDE_FIN_Joint_4/BACK_RIGHT_SIDE_FIN_TIP_Joint_5
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/BACK_RIGHT_SIDE_FIN_Joint_2/BACK_RIGHT_SIDE_FIN_Joint_3/BACK_RIGHT_SIDE_FIN_Joint_4/BACK_RIGHT_SIDE_FIN_TIP_Joint_5/BACK_RIGHT_SIDE_FIN_TIP_Joint_5_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/BOTTOM_FIN_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/BOTTOM_FIN_Joint_3/BOTTOM_FIN_Joint_4
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/BOTTOM_FIN_Joint_3/BOTTOM_FIN_Joint_4/BOTTOM_FIN_Joint_5
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/BOTTOM_FIN_Joint_3/BOTTOM_FIN_Joint_4/BOTTOM_FIN_Joint_5/BOTTOM_FIN_TIP_Joint_6
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/BOTTOM_FIN_Joint_3/BOTTOM_FIN_Joint_4/BOTTOM_FIN_Joint_5/BOTTOM_FIN_TIP_Joint_6/BOTTOM_FIN_TIP_Joint_6_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/LWR_TAIL_Joint_5
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/LWR_TAIL_Joint_5/LWR_TAIL_Joint_6
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/LWR_TAIL_Joint_5/LWR_TAIL_Joint_6/LWR_TAIL_TIP_Joint_7
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/LWR_TAIL_Joint_5/LWR_TAIL_Joint_6/LWR_TAIL_TIP_Joint_7/LWR_TAIL_TIP_Joint_7_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/MID_TAIL_Joint_5
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/MID_TAIL_Joint_5/MID_TAIL_Joint_6
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/MID_TAIL_Joint_5/MID_TAIL_Joint_6/MID_TAIL_TIP_Joint_7
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/MID_TAIL_Joint_5/MID_TAIL_Joint_6/MID_TAIL_TIP_Joint_7/MID_TAIL_TIP_Joint_7_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/UP_TAIL_Joint_5
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/UP_TAIL_Joint_5/UP_TAIL_Joint_6
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/UP_TAIL_Joint_5/UP_TAIL_Joint_6/UP_TAIL_Joint_7
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/UP_TAIL_Joint_5/UP_TAIL_Joint_6/UP_TAIL_Joint_7/UP_TAIL_TIP_Joint_8
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/LWR_SPINE_Joint_1/LWR_SPINE_Joint_2/LWR_SPINE_Joint_3/LWR_SPINE_Joint_4/UP_TAIL_Joint_5/UP_TAIL_Joint_6/UP_TAIL_Joint_7/UP_TAIL_TIP_Joint_8/UP_TAIL_TIP_Joint_8_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/TOP_FIN_Joint_1
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/TOP_FIN_Joint_1/TOP_FIN_Joint_2
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/TOP_FIN_Joint_1/TOP_FIN_Joint_2/TOP_FIN_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/TOP_FIN_Joint_1/TOP_FIN_Joint_2/TOP_FIN_Joint_3/TOP_FIN_TIP_Joint_4
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/TOP_FIN_Joint_1/TOP_FIN_Joint_2/TOP_FIN_Joint_3/TOP_FIN_TIP_Joint_4/TOP_FIN_TIP_Joint_4_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/LEFT_SIDE_FIN_Joint
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/LEFT_SIDE_FIN_Joint/LEFT_SIDE_FIN_Joint_1
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/LEFT_SIDE_FIN_Joint/LEFT_SIDE_FIN_Joint_1/LEFT_SIDE_FIN_Joint_2
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/LEFT_SIDE_FIN_Joint/LEFT_SIDE_FIN_Joint_1/LEFT_SIDE_FIN_Joint_2/LEFT_SIDE_FIN_TIP_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/LEFT_SIDE_FIN_Joint/LEFT_SIDE_FIN_Joint_1/LEFT_SIDE_FIN_Joint_2/LEFT_SIDE_FIN_TIP_Joint_3/LEFT_SIDE_FIN_TIP_Joint_3_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/RIGHT_SIDE_FIN_Joint_2
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/RIGHT_SIDE_FIN_Joint_2/RIGHT_SIDE_FIN_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/RIGHT_SIDE_FIN_Joint_2/RIGHT_SIDE_FIN_Joint_3/RIGHT_SIDE_FIN_Joint_4
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/RIGHT_SIDE_FIN_Joint_2/RIGHT_SIDE_FIN_Joint_3/RIGHT_SIDE_FIN_Joint_4/RIGHT_SIDE_FIN_TIP_Joint_5
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/RIGHT_SIDE_FIN_Joint_2/RIGHT_SIDE_FIN_Joint_3/RIGHT_SIDE_FIN_Joint_4/RIGHT_SIDE_FIN_TIP_Joint_5/RIGHT_SIDE_FIN_TIP_Joint_5_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/UPPER_SPINE_Joint_2
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/UPPER_SPINE_Joint_2/HEAD_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/UPPER_SPINE_Joint_2/HEAD_Joint_3/HEAD_Joint_3_end
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/UPPER_SPINE_Joint_2/JAW_Joint_3
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/UPPER_SPINE_Joint_2/JAW_Joint_3/JAW_TIP_Joint_4
+        weight: 1
+      - path: GOLDFISH_/HIP_Joint/UPPER_SPINE_Joint_1/UPPER_SPINE_Joint_2/JAW_Joint_3/JAW_TIP_Joint_4/JAW_TIP_Joint_4_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

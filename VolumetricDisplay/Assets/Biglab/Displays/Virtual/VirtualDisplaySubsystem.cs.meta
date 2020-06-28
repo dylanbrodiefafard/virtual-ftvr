@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d82531ece2a4f643bd7b0a11ad3d273
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OculusViewer: {fileID: 1160174174431676, guid: 3ab1ccc23cfeefa429be95984ae3f3d9,
+      type: 2}
+  - DesktopViewer: {fileID: 1083227789219676, guid: 6d1c53255516dfd4e9d62fd60ac00f42,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

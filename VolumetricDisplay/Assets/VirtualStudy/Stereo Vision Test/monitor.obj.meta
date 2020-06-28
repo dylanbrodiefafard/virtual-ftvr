@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 0a6ab2cc68b14234ebe24dd6ac35b1a9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: monitor_base
+    100004: monitor_circle
+    100006: monitor_curve
+    100008: monitor_logoback_Text___logo1_g1
+    100010: monitor_logoback_Text___logo1_g1_Uz_v_r_1
+    100012: monitor_logoback_Text___logo1_g1_Uz_v_r_2
+    100014: monitor_logoback_Text___logo1_l
+    100016: monitor_logoback_Text___logo1_l_Uz_v_r_14
+    100018: monitor_logoback_Text___logo1_l_Uz_v_r_23
+    100020: monitor_logoback_Text___logo1_o2
+    100022: monitor_logoback_Text___logo1_o2_Uz_v_r_12
+    100024: monitor_logoback_Text___logo1_o2_Uz_v_r_21
+    100026: monitor_logoback_Text___logo1_o3
+    100028: monitor_logoback_Text___logo1_o3_Uz_v_r_11
+    100030: monitor_logoback_Text___logo1_o3_Uz_v_r_22
+    100032: monitor_logofront__1_logo_g
+    100034: monitor_logofront__1_logo_g_Uz_v_r_16
+    100036: monitor_logofront__1_logo_g_Uz_v_r_26
+    100038: monitor_logofront__1_logo_l1
+    100040: monitor_logofront__1_logo_l1_Uz_v_r_13
+    100042: monitor_logofront__1_logo_l1_Uz_v_r_24
+    100044: monitor_logofront__1_logo_o
+    100046: monitor_logofront__1_logo_o1
+    100048: monitor_logofront__1_logo_o1_Uz_v_r_15
+    100050: monitor_logofront__1_logo_o1_Uz_v_r_25
+    100052: monitor_logofront__1_logo_o_Uz_v_r_17
+    100054: monitor_logofront__1_logo_o_Uz_v_r_27
+    100056: monitor_main
+    100058: monitor_stick
+    400000: //RootNode
+    400002: monitor_base
+    400004: monitor_circle
+    400006: monitor_curve
+    400008: monitor_logoback_Text___logo1_g1
+    400010: monitor_logoback_Text___logo1_g1_Uz_v_r_1
+    400012: monitor_logoback_Text___logo1_g1_Uz_v_r_2
+    400014: monitor_logoback_Text___logo1_l
+    400016: monitor_logoback_Text___logo1_l_Uz_v_r_14
+    400018: monitor_logoback_Text___logo1_l_Uz_v_r_23
+    400020: monitor_logoback_Text___logo1_o2
+    400022: monitor_logoback_Text___logo1_o2_Uz_v_r_12
+    400024: monitor_logoback_Text___logo1_o2_Uz_v_r_21
+    400026: monitor_logoback_Text___logo1_o3
+    400028: monitor_logoback_Text___logo1_o3_Uz_v_r_11
+    400030: monitor_logoback_Text___logo1_o3_Uz_v_r_22
+    400032: monitor_logofront__1_logo_g
+    400034: monitor_logofront__1_logo_g_Uz_v_r_16
+    400036: monitor_logofront__1_logo_g_Uz_v_r_26
+    400038: monitor_logofront__1_logo_l1
+    400040: monitor_logofront__1_logo_l1_Uz_v_r_13
+    400042: monitor_logofront__1_logo_l1_Uz_v_r_24
+    400044: monitor_logofront__1_logo_o
+    400046: monitor_logofront__1_logo_o1
+    400048: monitor_logofront__1_logo_o1_Uz_v_r_15
+    400050: monitor_logofront__1_logo_o1_Uz_v_r_25
+    400052: monitor_logofront__1_logo_o_Uz_v_r_17
+    400054: monitor_logofront__1_logo_o_Uz_v_r_27
+    400056: monitor_main
+    400058: monitor_stick
+    2100000: monitor_baseMat
+    2100002: monitor_circleMat
+    2100004: monitor_curveMat
+    2100006: monitor_logoback_Text___logo1_g1Mat
+    2100008: monitor_logoback_Text___logo1_g1_Uz_v_r_1Mat
+    2100010: monitor_logoback_Text___logo1_g1_Uz_v_r_2Mat
+    2100012: monitor_logoback_Text___logo1_lMat
+    2100014: monitor_logoback_Text___logo1_l_Uz_v_r_14Mat
+    2100016: monitor_logoback_Text___logo1_l_Uz_v_r_23Mat
+    2100018: monitor_logoback_Text___logo1_o2Mat
+    2100020: monitor_logoback_Text___logo1_o2_Uz_v_r_12Mat
+    2100022: monitor_logoback_Text___logo1_o2_Uz_v_r_21Mat
+    2100024: monitor_logoback_Text___logo1_o3Mat
+    2100026: monitor_logoback_Text___logo1_o3_Uz_v_r_11Mat
+    2100028: monitor_logoback_Text___logo1_o3_Uz_v_r_22Mat
+    2100030: monitor_logofront__1_logo_gMat
+    2100032: monitor_logofront__1_logo_g_Uz_v_r_16Mat
+    2100034: monitor_logofront__1_logo_g_Uz_v_r_26Mat
+    2100036: monitor_logofront__1_logo_l1Mat
+    2100038: monitor_logofront__1_logo_l1_Uz_v_r_13Mat
+    2100040: monitor_logofront__1_logo_l1_Uz_v_r_24Mat
+    2100042: monitor_logofront__1_logo_oMat
+    2100044: monitor_logofront__1_logo_o1Mat
+    2100046: monitor_logofront__1_logo_o1_Uz_v_r_15Mat
+    2100048: monitor_logofront__1_logo_o1_Uz_v_r_25Mat
+    2100050: monitor_logofront__1_logo_o_Uz_v_r_17Mat
+    2100052: monitor_logofront__1_logo_o_Uz_v_r_27Mat
+    2100054: monitor_mainMat
+    2100056: monitor_stickMat
+    2300000: monitor_base
+    2300002: monitor_circle
+    2300004: monitor_curve
+    2300006: monitor_logoback_Text___logo1_g1
+    2300008: monitor_logoback_Text___logo1_g1_Uz_v_r_1
+    2300010: monitor_logoback_Text___logo1_g1_Uz_v_r_2
+    2300012: monitor_logoback_Text___logo1_l
+    2300014: monitor_logoback_Text___logo1_l_Uz_v_r_14
+    2300016: monitor_logoback_Text___logo1_l_Uz_v_r_23
+    2300018: monitor_logoback_Text___logo1_o2
+    2300020: monitor_logoback_Text___logo1_o2_Uz_v_r_12
+    2300022: monitor_logoback_Text___logo1_o2_Uz_v_r_21
+    2300024: monitor_logoback_Text___logo1_o3
+    2300026: monitor_logoback_Text___logo1_o3_Uz_v_r_11
+    2300028: monitor_logoback_Text___logo1_o3_Uz_v_r_22
+    2300030: monitor_logofront__1_logo_g
+    2300032: monitor_logofront__1_logo_g_Uz_v_r_16
+    2300034: monitor_logofront__1_logo_g_Uz_v_r_26
+    2300036: monitor_logofront__1_logo_l1
+    2300038: monitor_logofront__1_logo_l1_Uz_v_r_13
+    2300040: monitor_logofront__1_logo_l1_Uz_v_r_24
+    2300042: monitor_logofront__1_logo_o
+    2300044: monitor_logofront__1_logo_o1
+    2300046: monitor_logofront__1_logo_o1_Uz_v_r_15
+    2300048: monitor_logofront__1_logo_o1_Uz_v_r_25
+    2300050: monitor_logofront__1_logo_o_Uz_v_r_17
+    2300052: monitor_logofront__1_logo_o_Uz_v_r_27
+    2300054: monitor_main
+    2300056: monitor_stick
+    3300000: monitor_base
+    3300002: monitor_circle
+    3300004: monitor_curve
+    3300006: monitor_logoback_Text___logo1_g1
+    3300008: monitor_logoback_Text___logo1_g1_Uz_v_r_1
+    3300010: monitor_logoback_Text___logo1_g1_Uz_v_r_2
+    3300012: monitor_logoback_Text___logo1_l
+    3300014: monitor_logoback_Text___logo1_l_Uz_v_r_14
+    3300016: monitor_logoback_Text___logo1_l_Uz_v_r_23
+    3300018: monitor_logoback_Text___logo1_o2
+    3300020: monitor_logoback_Text___logo1_o2_Uz_v_r_12
+    3300022: monitor_logoback_Text___logo1_o2_Uz_v_r_21
+    3300024: monitor_logoback_Text___logo1_o3
+    3300026: monitor_logoback_Text___logo1_o3_Uz_v_r_11
+    3300028: monitor_logoback_Text___logo1_o3_Uz_v_r_22
+    3300030: monitor_logofront__1_logo_g
+    3300032: monitor_logofront__1_logo_g_Uz_v_r_16
+    3300034: monitor_logofront__1_logo_g_Uz_v_r_26
+    3300036: monitor_logofront__1_logo_l1
+    3300038: monitor_logofront__1_logo_l1_Uz_v_r_13
+    3300040: monitor_logofront__1_logo_l1_Uz_v_r_24
+    3300042: monitor_logofront__1_logo_o
+    3300044: monitor_logofront__1_logo_o1
+    3300046: monitor_logofront__1_logo_o1_Uz_v_r_15
+    3300048: monitor_logofront__1_logo_o1_Uz_v_r_25
+    3300050: monitor_logofront__1_logo_o_Uz_v_r_17
+    3300052: monitor_logofront__1_logo_o_Uz_v_r_27
+    3300054: monitor_main
+    3300056: monitor_stick
+    4300000: monitor_base
+    4300002: monitor_circle
+    4300004: monitor_curve
+    4300006: monitor_logoback_Text___logo1_g1
+    4300008: monitor_logoback_Text___logo1_g1_Uz_v_r_1
+    4300010: monitor_logoback_Text___logo1_g1_Uz_v_r_2
+    4300012: monitor_logoback_Text___logo1_l
+    4300014: monitor_logoback_Text___logo1_l_Uz_v_r_14
+    4300016: monitor_logoback_Text___logo1_l_Uz_v_r_23
+    4300018: monitor_logoback_Text___logo1_o2
+    4300020: monitor_logoback_Text___logo1_o2_Uz_v_r_12
+    4300022: monitor_logoback_Text___logo1_o2_Uz_v_r_21
+    4300024: monitor_logoback_Text___logo1_o3
+    4300026: monitor_logoback_Text___logo1_o3_Uz_v_r_11
+    4300028: monitor_logoback_Text___logo1_o3_Uz_v_r_22
+    4300030: monitor_logofront__1_logo_g
+    4300032: monitor_logofront__1_logo_g_Uz_v_r_16
+    4300034: monitor_logofront__1_logo_g_Uz_v_r_26
+    4300036: monitor_logofront__1_logo_l1
+    4300038: monitor_logofront__1_logo_l1_Uz_v_r_13
+    4300040: monitor_logofront__1_logo_l1_Uz_v_r_24
+    4300042: monitor_logofront__1_logo_o
+    4300044: monitor_logofront__1_logo_o1
+    4300046: monitor_logofront__1_logo_o1_Uz_v_r_15
+    4300048: monitor_logofront__1_logo_o1_Uz_v_r_25
+    4300050: monitor_logofront__1_logo_o_Uz_v_r_17
+    4300052: monitor_logofront__1_logo_o_Uz_v_r_27
+    4300054: monitor_main
+    4300056: monitor_stick
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_baseMat
+    second: {fileID: 2100000, guid: 3e9a9883ebfe68840ae05db0e897d4ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_circleMat
+    second: {fileID: 2100000, guid: 8830401487adf65408bd4ba57e6f86c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_curveMat
+    second: {fileID: 2100000, guid: 167fc4af7888f5545ac49cbf122060c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_g1Mat
+    second: {fileID: 2100000, guid: 61af073a0dec56f4a96bac694fe12d57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_g1_Uz_v_r_1Mat
+    second: {fileID: 2100000, guid: bb426ad20f1d4694594d95263200c9ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_g1_Uz_v_r_2Mat
+    second: {fileID: 2100000, guid: 55c61ba83c376e54e949d10dc7c8d135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_lMat
+    second: {fileID: 2100000, guid: cd1f12d8dcc6a1c4da082f0b2b212140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_l_Uz_v_r_14Mat
+    second: {fileID: 2100000, guid: ac61327186ab9164686adb15ee286fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_l_Uz_v_r_23Mat
+    second: {fileID: 2100000, guid: a3d477b90613a23468e2f234a48ace47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_o2Mat
+    second: {fileID: 2100000, guid: 152ef4f89442ba342bec6731ee35dbb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_o2_Uz_v_r_12Mat
+    second: {fileID: 2100000, guid: f050b37f0bcfafd43944303db3f67b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_o2_Uz_v_r_21Mat
+    second: {fileID: 2100000, guid: 7f7e3d0b2619d884c969f6e4f7552d45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_o3Mat
+    second: {fileID: 2100000, guid: 5d011326d506ed04bb933954a57c1768, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_o3_Uz_v_r_11Mat
+    second: {fileID: 2100000, guid: e64516f3e65658b4cbea0fc80e6849ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logoback_Text___logo1_o3_Uz_v_r_22Mat
+    second: {fileID: 2100000, guid: 9ddc687c81370ec4086824e703131c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_gMat
+    second: {fileID: 2100000, guid: 22f220b089630f548b2dff4dd98a779a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_g_Uz_v_r_16Mat
+    second: {fileID: 2100000, guid: 419b1d53988db374b8d28024f3aca4ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_g_Uz_v_r_26Mat
+    second: {fileID: 2100000, guid: edf3276fd86e33a4e9ef31902cdde687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_l1Mat
+    second: {fileID: 2100000, guid: 419f0cb7321831a4a98efd85ed4cd719, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_l1_Uz_v_r_13Mat
+    second: {fileID: 2100000, guid: 586055dfd41064c40bcb83bea9018955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_l1_Uz_v_r_24Mat
+    second: {fileID: 2100000, guid: 7a491592f55153149975f5f6f37755b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_o1Mat
+    second: {fileID: 2100000, guid: 0f7fbb92b95a85e4f8c0154aa2fba888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_o1_Uz_v_r_15Mat
+    second: {fileID: 2100000, guid: 88cdca62f8738274fb8a9cc491a576a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_o1_Uz_v_r_25Mat
+    second: {fileID: 2100000, guid: adc7fc41fa8911a439e674ffa08f2ac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_oMat
+    second: {fileID: 2100000, guid: 10c788334f29d1948ab81cb89257f812, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_o_Uz_v_r_17Mat
+    second: {fileID: 2100000, guid: 7504b31e5e1889942908b13c11aafd40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_logofront__1_logo_o_Uz_v_r_27Mat
+    second: {fileID: 2100000, guid: b07d35f4aa80e124885d06a69de3f2a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_mainMat
+    second: {fileID: 2100000, guid: 17ed1f3967c6c534aa7bbd722a728938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor_stickMat
+    second: {fileID: 2100000, guid: 02204ae2855635d4fb58e62bff3f0eb5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

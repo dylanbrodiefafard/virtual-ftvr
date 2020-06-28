@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b6bf45ed61f130440bb188626291a9fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - VirtualByCalibrationPrefab: {fileID: 1561008732779428, guid: 18fb31948afff5e4097828a09520602e,
+      type: 2}
+  - MosaicProjectorsPrefab: {fileID: 1122605938902174, guid: e215776efaadf4e429136fdf620a70b7,
+      type: 2}
+  - VirtualProjectorsPrefab: {fileID: 1192872199770304, guid: c9f54264b1e64234cbb64e2dd6ce0e1a,
+      type: 2}
+  executionOrder: -150
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

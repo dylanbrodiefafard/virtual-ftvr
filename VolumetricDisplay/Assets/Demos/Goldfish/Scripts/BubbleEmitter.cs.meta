@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b40f1e23d137014fb80b2ca3336562c
+timeCreated: 1496867128
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BubblePrefab: {fileID: 1944365169021204, guid: 4b6c2e01d9e6cde46a498d687764994c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

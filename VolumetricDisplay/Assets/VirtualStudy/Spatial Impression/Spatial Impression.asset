@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d92ec90613fa9e429a1689b274334b6, type: 3}
+  m_Name: Spatial Impression
+  m_EditorClassIdentifier: 
+  _fields:
+  - Name: Level A
+    Type: 0
+  - Name: Level B
+    Type: 0
+  - Name: Preferred Level
+    Type: 0
+  - Name: Time Taken (ms)
+    Type: 1

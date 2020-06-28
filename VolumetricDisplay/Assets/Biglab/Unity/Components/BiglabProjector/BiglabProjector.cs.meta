@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bc147f976ead8c74cad34208acb85ee1
+timeCreated: 1527280376
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ProjectorIntrinsics: {fileID: 11400000, guid: c41c132f5722e0849bdd9bd763d5a57c,
+      type: 2}
+  - ImageSource: {fileID: 2800000, guid: 632d20bbdb9fbe248b3b9b8cef24d6ac, type: 3}
+  - LuminosityMask: {fileID: 2800000, guid: b737349d372282f41a55133475e3b7ac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

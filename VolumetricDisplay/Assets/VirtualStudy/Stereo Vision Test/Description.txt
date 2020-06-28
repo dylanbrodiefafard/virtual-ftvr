@@ -1,0 +1,23 @@
+Please DOWNLOAD the set of D_SA test images for your screen resolution and dimension.
+
+The archive contains 6 stereoscopic images of the test scene:
+
+    3 versions of the test scene are provided, presenting the target in the left, center or right position
+    for each position it is provided an image with 1 or 2 pixels of disparity
+
+To perform the test, create a sequence of 10 images, with a random alternation of the target position. Please show a black background for 2 seconds between each test image.
+For each target image, change the observer distance from the screen following the table below (take care to use the image with the correct pixel disparity value for each position).
+
+With a horizontal resolution of 1920 pixels and width of 80 cm, the viewing distances are:
+
+Disparity (arc sec)	Disparity (pixel)	Distance from the screen (cm)
+160	2	107
+100	2	171
+63	2	272
+50	2	343
+40	2	429
+32	1	268
+26	1	330
+20	1	429
+16	1	537
+12.5	1	687

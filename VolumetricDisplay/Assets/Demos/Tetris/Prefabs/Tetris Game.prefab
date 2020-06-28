@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1174962600249248}
+  m_IsPrefabParent: 1
+--- !u!1 &1174962600249248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4220133005603970}
+  - component: {fileID: 114568781964692784}
+  m_Layer: 0
+  m_Name: Tetris Game
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4220133005603970
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1174962600249248}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114568781964692784
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1174962600249248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5123906c0e2df54da630b5f95c2f21e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Input: {fileID: 11400000, guid: a2ef78a7f34a9504884c3e87a2913758, type: 2}
+  m_BlocksHorizontal: 16
+  BlockLayers: 8
+  BlockThickness: 0.4
+  ApparentScale: 0.0833
+  TicksPerSecond: 1
+  PieceCollection:
+    _pieces:
+    - {fileID: 114983273511209984, guid: f0e3677c953267342b211c88aa4333b9, type: 2}
+    - {fileID: 114066459794819946, guid: 95ff22b3bb9c2d442a7312e8f0dd81cc, type: 2}
+    - {fileID: 114679113234702566, guid: 6bc4b3583968fff47a08461d82c73470, type: 2}
+    - {fileID: 114668324652613118, guid: 3ac30d0a1dcd3b741bbf1b9d1039c989, type: 2}
+    - {fileID: 114911924354443270, guid: 7df0d99b47aca9047a81423d3ee5efb6, type: 2}
+    - {fileID: 114540385708952352, guid: 37bc9f3bb13f62240b25e3244aac0f49, type: 2}
+    - {fileID: 114771880815219872, guid: 529a325c249c8eb4b972083e2fa24bfb, type: 2}
+    - {fileID: 114723336474252350, guid: 3fc580d231ba5e445a55d03f7299e715, type: 2}
+    - {fileID: 114012971653700258, guid: 56fb00ca3a1673347b8f964fd53b2b54, type: 2}
+    - {fileID: 114385346620969016, guid: 94b50751f10bbae4a98e3fde8942a6f6, type: 2}
+  LayerColors:
+  - {r: 1, g: 0.21568626, b: 0.21568626, a: 1}
+  - {r: 1, g: 0.6089355, b: 0.21568626, a: 1}
+  - {r: 0.9978153, g: 1, b: 0.21568626, a: 1}
+  - {r: 0.47348303, g: 1, b: 0.21568626, a: 1}
+  - {r: 0.21568626, g: 1, b: 0.87547106, a: 1}
+  BurstPrefab: {fileID: 1063186810428558, guid: f7fdb404669fe4f4aa9c589f65c9f309,
+    type: 2}
+  DotMeshPrefab: {fileID: 1926699516761594, guid: 71f4d2b2a5452f147a0bb93908dc0c91,
+    type: 2}
+  SphereMaterial: {fileID: 2100000, guid: ab8a88a6433f85e48b8bdfa893aa7424, type: 2}
+  NextMaterial: {fileID: 2100000, guid: 240473bb072f5304fab1adb393cd59b3, type: 2}
+  ActivePiece: {fileID: 0}
+  NextPiece: {fileID: 0}
+  ActivePieceIndex: 0
+  NextPieceIndex: 0

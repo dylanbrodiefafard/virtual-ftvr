@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3eb96fbce4220b846969e886249afa41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CalibrationParameters: {fileID: 11400000, guid: f17f031b418fa3248a826d506068b393,
+      type: 2}
+  - OptimizerTableDescription: {fileID: 11400000, guid: 72b7142f5b523b94cba002fe72b1bc22,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
